@@ -1,0 +1,96 @@
+body{
+	font-family: Times New Roman;
+	font-size: 15px;
+	padding-right: 100px;
+	padding-left: 100px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-image:url("http://summemedicalclinic.com/wp-content/uploads/Gradient-Background-1.jpg");
+}
+
+
+
+
+.namediv{
+	border-bottom: 1px solid;
+	width: 60%; 
+	height: 45px;
+	margin-left: 20px;
+	margin-right: auto;
+	}
+
+
+
+.name{
+	vertical-align:bottom; 
+	font-size: 40px
+	}
+
+
+
+.main{
+	width: 60%; 
+	height: 1100px;
+	border: 0px solid; 
+	margin-left: 100px;
+	margin-right: auto; 
+	position: relative
+	}
+
+
+
+.contact{
+	position: absolute;
+	top:8px;
+	width: 490px;
+	height: 200px;
+	margin-left: 20px;
+	border: 0px solid;
+	text-align:left;
+	}
+
+
+
+.photo{
+	position: absolute;
+	top: -54px;
+	right: -161px;
+	width: 330px;
+	border: 0px solid;
+	background-color: white;/* Rotate div */
+	-ms-transform: rotate(7deg); /* IE 9 */
+	-webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+	transform: rotate(-7deg);
+}
+
+
+
+.edu{
+	border-right:1px solid; 
+	width:150px; 
+	height: 120px;
+	margin-left: 40px;
+	float:left}
+
+
+
+.edu1{
+	width:450px; 
+	height: 120px; 
+	margin-left: 10px;
+	float:left
+	}
+
+
+
+.sections{
+	font-size: 18px;
+	margin-top:10px
+}
+
+
+
+.section{
+	font-size: 16px;
+	margin-top:5px
+	}
